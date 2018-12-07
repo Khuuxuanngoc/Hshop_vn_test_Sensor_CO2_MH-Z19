@@ -6,4 +6,4 @@
 Result: 
 ![alt text][logo]
 
-[logo]: https://github.com/Khuuxuanngoc/Hshop_vn_test_Sensor_CO2_MH-Z19/images/result_uart.JPG "Kết quả đọc qua Uart"
+[logo]: https://github.com/Khuuxuanngoc/Hshop_vn_test_Sensor_CO2_MH-Z19/blob/master/images/result_uart.JPG "Kết quả đọc qua Uart"
