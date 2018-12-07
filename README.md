@@ -19,4 +19,4 @@ Result - PWM:
 
 ![alt text][logo]
 
-[logo]: https://github.com/Khuuxuanngoc/Hshop_vn_test_Sensor_CO2_MH-Z19/blob/master/images/CO2_pwmRead.JPG "Kết quả đọc qua PWM"
+[logo]: https://github.com/Khuuxuanngoc/Hshop_vn_test_Sensor_CO2_MH-Z19/blob/master/images/result_pwm_pin.JPG "Kết quả đọc qua PWM"
