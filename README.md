@@ -17,6 +17,6 @@ Result - UART:
 
 Result - PWM:
 
-![alt text][logo]
+![alt text][logo2]
 
-[logo]: https://github.com/Khuuxuanngoc/Hshop_vn_test_Sensor_CO2_MH-Z19/blob/master/images/result_pwm_pin.JPG "Kết quả đọc qua PWM"
+[logo2]: https://github.com/Khuuxuanngoc/Hshop_vn_test_Sensor_CO2_MH-Z19/blob/master/images/result_pwm_pin.JPG "Kết quả đọc qua PWM"
